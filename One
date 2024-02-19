@@ -6,3 +6,5 @@ git branch -M main
 git remote add origin https://github.com/BrianEvans-Lehigh/CHE395-495-repo.git
 git push -u origin main
 print ('Hello')
+Answer = 5 + 3
+Answer
